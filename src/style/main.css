@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+body{
+    background-color : #032427;
+}
+html {
+    scroll-behavior: smooth;
+  }
+ul{
+    list-style-type: none;
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+ .btn{
+    border:  none;
+    background-color: #FF4D03;
+    color: white;
+    padding: 8px 20px;
+    border-radius: 30px;
+ }
+
+
+ p,ul,a,li{
+    font-family: sans-serif;
+ }
